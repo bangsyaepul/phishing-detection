@@ -1,0 +1,10 @@
+{
+  "subdomain": "labels_minus_2",
+  "ccr": "pair_ratio",
+  "special": "all_non_alnum",
+  "special_ratio": "other_only",
+  "obfuscation": "seq_count_x3",
+  "tld_ip": "last_label",
+  "urlcharprob": "legit",
+  "title_match": "token"
+}
